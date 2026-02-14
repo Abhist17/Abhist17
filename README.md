@@ -1,4 +1,3 @@
-#About Me:
 ## Hey, I’m Abhist 👋
 
 Web3 developer with 1.5 years of experience building decentralized applications and smart contracts. I like turning coffee into on-chain logic.
