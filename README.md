@@ -1,5 +1,32 @@
-# -> About Me:
-Hello there! I’m Abhist Kamle, a Web3 developer with 1.5 years of experience, passionate about building decentralized applications and smart contracts. I love exploring blockchain use cases, participating in hackathons, and contributing to the growing Web3 culture in my college community. Alongside blockchain, I also focus on improving my problem-solving skills through DSA and Competitive Programming in Python.<br><br>Professional Background:<br>I’m currently a student at Indian Institute of Information Technology, Nagpur<br>I’m currently working on decentralized applications, smart contracts, and real-world blockchain projects<br>I’m currently learning advanced Solidity, Smart Contract Security, and Solana Development<br>Ask me about Web3 Development, Solidity, Smart Contracts, Hackathons, and Blockchain Communities<br>How to reach me: abhistcodes17@gmail.com<br><br>Socials:<br>LinkedIn: https://www.linkedin.com/in/abhist-kamle-845079323/<br><br>X:[ https://x.com/_abhist__](https://x.com/_abhist_)
+#About Me:
+## Hey, I’m Abhist 👋
+
+Web3 developer with 1.5 years of experience building decentralized applications and smart contracts. I like turning coffee into on-chain logic.
+
+Currently a student at **IIIT Nagpur**, actively building real-world blockchain projects and contributing to Web3 culture in my college (yes, I’m that person who says “this could be on-chain”).
+
+### What I Do
+
+* Build dApps & smart contracts
+* Ship blockchain projects
+* Participate in hackathons
+* Break things → fix them → call it learning
+
+### Currently Learning
+
+* Advanced Solidity
+* Smart Contract Security
+* Solana Development
+
+### Also Grinding
+
+* DSA
+* Competitive Programming in Python
+
+Ask me about Web3, Solidity, Smart Contracts, Hackathons, or how many times `anchor test` has humbled me.
+
+---
+<br>How to reach me: abhistcodes17@gmail.com<br><br>Socials:<br>LinkedIn: https://www.linkedin.com/in/abhist-kamle-845079323/<br><br>X:[ https://x.com/_abhist__](https://x.com/_abhist_)
 
 
 ## 🌐 Socials:
