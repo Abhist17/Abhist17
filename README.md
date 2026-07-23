@@ -1,6 +1,6 @@
 ## Hey, I’m Abhist 👋
 
-Web3 developer with 1.5 years of experience building decentralized applications and smart contracts. I like turning coffee into on-chain logic.
+Web3 developer with 2 years of experience building decentralized applications and smart contracts. I like turning coffee into on-chain logic.
 
 Currently a student at **IIIT Nagpur**, actively building real-world blockchain projects and contributing to Web3 culture in my college (yes, I’m that person who says “this could be on-chain”).
 
@@ -16,11 +16,13 @@ Currently a student at **IIIT Nagpur**, actively building real-world blockchain 
 * Advanced Solidity
 * Smart Contract Security
 * Solana Development
+* Rust 
 
 ### Also Grinding
 
 * DSA
 * Competitive Programming in Python
+* Finance
 
 Ask me about Web3, Solidity, Smart Contracts, Hackathons, or how many times `anchor test` has humbled me.
 
